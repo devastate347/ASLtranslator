@@ -8,7 +8,7 @@
         "args": ["${file}"],
         "group": {
           "kind": "build",
-          "isDefault": True
+          "isDefault": true
         },
         "presentation": {
           "reveal": "always",
